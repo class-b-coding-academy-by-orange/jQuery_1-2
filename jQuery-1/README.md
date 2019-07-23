@@ -24,7 +24,7 @@ User must first accept then he or she can signup
 
 #### Exercise 6
 
-Dont be an ass - let them print
+Let them print
 
 #### Exercise 7
 
