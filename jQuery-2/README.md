@@ -1,8 +1,8 @@
-####EXERCISE 1: Change Background
+##EXERCISE 1: Change Background
 
 Change the background color of '#target' by script.
 
-####EXERCISE 2: Change Parent
+####EXERCISE 2: Change Text
 Change the text in the span, a child of "#target"
 
 ####EXERCISE 3: Create Clone
