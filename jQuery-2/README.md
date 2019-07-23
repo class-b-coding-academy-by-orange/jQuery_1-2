@@ -1,4 +1,5 @@
 ####EXERCISE 1: Change Background
+
 Change the background color of '#target' by script.
 
 ####EXERCISE 2: Change Parent
